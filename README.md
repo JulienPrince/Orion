@@ -1,4 +1,4 @@
-# Hermes
+# Orion
 
 App native macOS et iOS — wrapper WebView pour accéder à n'importe quel WebUI depuis le dock ou l'écran d'accueil.
 
